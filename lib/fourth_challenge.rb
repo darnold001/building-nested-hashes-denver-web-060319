@@ -19,5 +19,5 @@ def fourth_challenge
 }
 
 
-
+epic_tragedy[:hero][:romeo][:status =>"dead"]
 end
